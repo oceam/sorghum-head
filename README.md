@@ -8,7 +8,7 @@ We provide three different types of in Supplementary Materials:
 1. Supplementary Materials 1:
    1)	Original image dataset 0, 17 training images for color feature selection.
    2)	DTSM_trainingData.txt, Selected color features in CSV format for generate DTSM model
-2. Supplementary Materials 2:
+2. Supplementary Materials 2, the simplest way to play with those data is to run matlab app [here](https://jp.mathworks.com/products/statistics/classification-learner.html):
    1) featureTable_croped_img_rand_201808.csv
 3. Supplementary Materials 3:
    1)	original image dataset 1 and corresponded Dot labeled data (52 cropped images).

@@ -16,4 +16,8 @@ We provide three different types of in Supplementary Materials:
    2)	original image dataset 2 and corresponded Dot labeled data (40 plot images).
 <img src="https://github.com/oceam/sorghum-head/blob/master/figure/Sup3.jpg" alt="2 anotated datasets" title="Anotated">
 
+To download the dataset, please fill a simple form below:
+https://docs.google.com/forms/d/e/1FAIpQLSeAtefEzXEQW1Yo7rSZth3Yjzoc9SJfNDQQFKYXDwEPlWSV1w/viewform?c=0&w=1  
+The download link will be sent to your email once the form is completed. 
+
 

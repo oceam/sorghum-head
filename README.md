@@ -11,5 +11,6 @@ We provide two different types of data:
 2. Supplementary Materials 3:
    1)	original image dataset 1 and corresponded Dot labeled data (52 cropped images).
    2)	original image dataset 2 and corresponded Dot labeled data (40 plot images).
+<img src="https://github.com/oceam/sorghum-head/blob/master/figure/Sup3.jpg" alt="2 anotated datasets" title="Anotated">
 
 

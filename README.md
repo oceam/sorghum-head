@@ -1,7 +1,6 @@
 # sorghum-head
 This is a support page of paper published at "Front. Plant Science - Technical Advances in Plant Science" as an Original Research.  
->Aerial Imagery Analysis—Quantifying Appearance and Number of Sorghum Heads for Applications in Breeding and Agronomy.  
-Wei Guo* ,  Bangyou Zheng,  Andries B Potgieter,  Julien Diot,  Kakeru Watanabe,  Koji Noshita,  David Jordan,  Xuemin Wang, James Waston,  Seishi Ninomiya and  Scott Chapman
+>Guo W, Zheng B, Potgieter AB, Diot J, Watanabe K, Noshita K, Jordan DR, Wang X, Watson J, Ninomiya S and Chapman SC (2018) Aerial Imagery Analysis – Quantifying Appearance and Number of Sorghum Heads for Applications in Breeding and Agronomy. Front. Plant Sci. 9:1544. doi: 10.3389/fpls.2018.01544
 
 please cite the paper below if you used the dataset provided here.
 
